@@ -29,6 +29,9 @@ let num2 = 3;
 //console .log(!5);       //Boolean
 
 
+console.log("hii");
+
+
 
 //Equality Operator
 //console.log(5 == 5);
